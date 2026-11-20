@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.aistudio/
+venv/
+__pycache__/
+*.pyc
+store.db
+sample_data/*.mp4
+sample_data/*.avi
+*.pt
+runs/
+structure.txt
+.DS_Store
+.env
+*.tmp
+data/*.tmp

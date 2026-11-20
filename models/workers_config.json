@@ -1,0 +1,22 @@
+{
+  "Lakshana": {
+    "category": "Hacker",
+    "id": "EMP-001"
+  },
+  "Shirley": {
+    "category": "Hustler",
+    "id": "EMP-002"
+  },
+  "Mehaa": {
+    "category": "Hacker",
+    "id": "EMP-003"
+  },
+  "Tejas": {
+    "category": "Visionary",
+    "id": "EMP-004"
+  },
+  "Rithika": {
+    "category": "Hustler",
+    "id": "EMP-005"
+  }
+}

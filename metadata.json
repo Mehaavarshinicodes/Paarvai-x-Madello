@@ -1,0 +1,10 @@
+{
+  "name": "PaarvAI × Madello",
+  "description": "Privacy-aware retail CCTV computer-vision intelligence with authorised employee recognition and anonymous customer analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
